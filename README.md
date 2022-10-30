@@ -8,3 +8,4 @@
 - Incorporated Bootstrap & Font Awesome to streamline styling along with custom CSS stylesheet
 - Implemented OAuth 2.0 to trigger Sign In with Google
 - Used Passport.js to add Cookies & Sessions
+- Encorporated Robo 3T (an open source MongoDB GUI) to save secrets for each unique user
